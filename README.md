@@ -1,5 +1,5 @@
 # Synthetic Time Series Generation using Generative Adversarial Network in Smart Grid
-Code that replicate work [Generative Adversarial Network for Synthetic Time Series Data Generation in Smart Grids](https://ieeexplore.ieee.org/abstract/document/8587464).
+Code that replicate work [Generative Adversarial Network for Synthetic Time Series Data Generation in Smart Grids](https://drive.google.com/file/d/18M0jW2aZDv3dzUfUDoFqn4QKleNX0VAZ/view).
 
 Note that in this repo, we change our model to [ACGAN](https://arxiv.org/abs/1610.09585) instead of the original Conditional GAN.
 
