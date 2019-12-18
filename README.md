@@ -11,7 +11,7 @@ tqdm==4.30.0
 numpy==1.16.2
 Keras==2.2.4
 tensorboardX==1.6
-tensorflow==1.13.1
+tensorflow==1.15
 tensorboard==1.13.0
 ```
 
